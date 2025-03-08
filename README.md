@@ -29,8 +29,8 @@ TubeFeedback is a Chrome extension that analyzes YouTube comments to provide cre
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://your-screenshot1-url-here.png" width="400" alt="TubeFeedback in action"/>
-  <img src="https://your-screenshot2-url-here.png" width="400" alt="Analysis results"/>
+  <img src="https://www.tubefeedback.com/assets/images/1a.png" width="400" alt="TubeFeedback in action"/>
+  <img src="https://www.tubefeedback.com/assets/images/2a.png" width="400" alt="Analysis results"/>
 </p>
 
 ## 🔧 Installation
