@@ -1,7 +1,7 @@
 # TubeFeedback
 
 <p align="center">
-  <img src="https://your-image-url-here.png" alt="TubeFeedback Logo" width="200"/>
+  <img src="https://www.tubefeedback.com/assets/images/logo_50.png" alt="TubeFeedback Logo" width="50"/>
 </p>
 
 <p align="center">
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://chrome.google.com/webstore/detail/tubefeedback/your-extension-id">Chrome Web Store</a> •
-  <a href="https://tubefeedback.com">Website</a> •
-  <a href="https://twitter.com/tubefeedback">Twitter</a>
+  <a href="https://chromewebstore.google.com/detail/tubefeedback/hadpnofmnilindomppkndmlnjikpceie">Chrome Web Store</a> •
+  <a href="https://www.tubefeedback.com">Website</a> •
+  <a href="https://x.com/TubeFeedbackApp">Twitter</a>
 </p>
 
 ## 🎯 What is TubeFeedback?
